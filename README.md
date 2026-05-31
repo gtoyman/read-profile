@@ -28,7 +28,7 @@ Github-LOG
 
 .
 
-2026/06 - Life is short, you better enjoy that shit!
+2026/06 - Life is short, you better enjoy that shit! Zayde Wolf - Rumble.
 
 2026/06 - Frank Sinatra - That's Life. | The Waterboys - The whole of the moon. (Learn to dance?)
 
