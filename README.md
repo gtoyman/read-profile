@@ -28,6 +28,8 @@ Github-LOG
 
 .
 
+2026/06 - Life is short, you better enjoy that shit!
+
 2026/06 - Frank Sinatra - That's Life. (Learn to dance?)
 
 .
