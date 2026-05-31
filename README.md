@@ -28,6 +28,9 @@ Github-LOG
 
 .
 
+2026/06 - Frank Sinatra - That's Life.
+
+.
 
 2026/05 - I posted my linux scripts online in my github repository.
 
