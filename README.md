@@ -28,7 +28,7 @@ Github-LOG
 
 .
 
-2026/06 - They are scanning my LAN through my phone when it's connected to LAN and not 4G.
+2026/06 - They are scanning my LAN through my phone when it's connected to LAN and not 4G. Check wireguard protocol in wireshark.
 
 2026/06 - My phone is working again ... Problem was on my end. sorry.
 
