@@ -34,7 +34,7 @@ Back to the 90's , It's up to Gen-X again to save the world. :)
 
 2026/06 - Without me pulling on the brakes now, the world would be devastated in 10 years. I'm truly sorry, but the internet is broken.
 
-2026/06 - They are scanning my LAN through my phone when it's connected to LAN and not 4G. Check wireguard protocol in wireshark. Keep your phone on 4G with vpn.
+2026/06 - They are scanning my LAN through my phone when it's connected to LAN and not 4G. Check wireguard protocol in wireshark. Keep your phone on 4G with vpn. They hack your LAN through your phone when it's connected to LAN wifi.
 
 2026/06 - My phone is working again ... Problem was on my end. sorry.
 
