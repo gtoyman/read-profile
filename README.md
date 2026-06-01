@@ -28,6 +28,8 @@ Github-LOG
 
 .
 
+2026/06 - They broke the WIFI's dns on my phone.
+
 2026/06 - Life is short, you better enjoy that shit! Zayde Wolf - Rumble.
 
 2026/06 - Frank Sinatra - That's Life. | The Waterboys - The whole of the moon. (Learn to dance?)
