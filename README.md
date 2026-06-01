@@ -30,7 +30,7 @@ Github-LOG
 
 2026/06 - We can still use a computer without internet. Buy yourself an external USB Bluray Read/Writer. Back to LAN-parties, untill there is Internet V2.0. And we need new phones. 
 
-Back to the 90's :)
+Back to the 90's , It's up to Gen-X again to save the world. :)
 
 2026/06 - Without me pulling on the brakes now, the world would be devastated in 10 years. I'm truly sorry, but the internet is broken.
 
