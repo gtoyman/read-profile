@@ -30,7 +30,7 @@ Github-LOG
 
 2026/06 - We can still use a computer without internet. Buy yourself an external USB Bluray Read/Writer. Back to LAN-parties, untill there is Internet V2.0. :)
 
-2026/06 - Without me pulling on the brakes now, the world would be devastated in 10 years. I'm truly sorry.
+2026/06 - Without me pulling on the brakes now, the world would be devastated in 10 years. I'm truly sorry, but the internet is broken.
 
 2026/06 - They are scanning my LAN through my phone when it's connected to LAN and not 4G. Check wireguard protocol in wireshark. Keep your phone on 4G with vpn.
 
