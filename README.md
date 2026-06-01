@@ -28,7 +28,7 @@ Github-LOG
 
 .
 
-2026/06 - They broke the WIFI's dns on my phone. I only have 4G with vpn for now.
+2026/06 - Maybe there's something else wrong. I'm checking.
 
 2026/06 - Life is short, you better enjoy that shit! Zayde Wolf - Rumble.
 
