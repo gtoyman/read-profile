@@ -26,6 +26,9 @@ Github-LOG
 
 .
 
+
+2026/06 - If you want to know what your phone is doing, connect it to the linux gateway, run wireshark combined with squid transparant proxy. Watch the logs.
+
 2026/06 - The internet is a like a bucket with holes in for which we pay every month. :)
 
 2026/06 - We can still use a computer without internet. Buy yourself an external USB Bluray Read/Writer. Back to LAN-parties, untill there is Internet V2.0. And we need new phones. 
