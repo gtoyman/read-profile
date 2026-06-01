@@ -28,6 +28,8 @@ Github-LOG
 
 .
 
+2026/06 - The internet is a like a bucket with holes in for which we pay every month.
+
 2026/06 - We can still use a computer without internet. Buy yourself an external USB Bluray Read/Writer. Back to LAN-parties, untill there is Internet V2.0. And we need new phones. 
 
 Back to the 90's , It's up to Gen-X again to save the world. :)
