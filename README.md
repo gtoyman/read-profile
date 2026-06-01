@@ -28,7 +28,7 @@ Github-LOG
 
 .
 
-2026/06 - We can still use a computer without internet. Buy yourself an external USB Bluray Read/Writer. Back to LAN-parties. :)
+2026/06 - We can still use a computer without internet. Buy yourself an external USB Bluray Read/Writer. Back to LAN-parties, untill there is Internet V2.0. :)
 
 2026/06 - Without me pulling on the brakes now, the world would be devastated in 10 years.
 
