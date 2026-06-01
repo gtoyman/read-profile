@@ -20,8 +20,6 @@ continue my posts here:
 ```
 - https://www.github.com/sprokkel78/social-anxiety. 
 
-It's a work in progress getting everything back online.
-
 .
 
 Github-LOG
