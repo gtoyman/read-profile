@@ -28,6 +28,8 @@ Github-LOG
 
 .
 
+2026/06 - They are scanning my LAN through my phone when it's connected to LAN and not 4G.
+
 2026/06 - My phone is working again ... Problem was on my end. sorry.
 
 2026/06 - Life is short, you better enjoy that shit! Zayde Wolf - Rumble.
