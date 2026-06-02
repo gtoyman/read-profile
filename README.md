@@ -27,7 +27,7 @@ Github-LOG
 .
 
 
-2026/06 - We live in a paradise, act like it. Be non-violent. Show the colors (pink & blue). A negative approach will lead to a negative result.
+2026/06 - We live in a paradise, act like it. Be non-violent. Show the colors (pink & blue). A negative approach will lead to a negative result. Stay positive, it's going to be OKE.
 
 2026/06 - If you want to know what your phone is doing, connect it to the linux gateway, run wireshark combined with squid transparant proxy. Watch the logs.
 
