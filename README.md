@@ -27,6 +27,8 @@ Github-LOG
 .
 
 
+2026/06 - We live in a paradise, act like it. 
+
 2026/06 - If you want to know what your phone is doing, connect it to the linux gateway, run wireshark combined with squid transparant proxy. Watch the logs.
 
 2026/06 - The internet is a like a bucket with holes in for which we pay every month. :)
