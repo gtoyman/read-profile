@@ -1,6 +1,6 @@
 # read-profile -> Bart Janssen (sprokkel78)
 
-NEW ACCOUNT (BACKUP): https://github.com/gtoyman/new-account
+CONTINUED ...
 
 ![Screenshot](https://github.com/sprokkel78/read-profile/blob/main/HouseofPL.png)
 
