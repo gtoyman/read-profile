@@ -32,7 +32,7 @@ Github-LOG
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/whisper.png)
 
-2026/06 - I'm now growing snack paprika's as well in my little tent, they can handle 18hours too. :)
+2026/06 - I'm now growing snack paprika's as well in my little tent, they can handle 18hours too. If you look them up, they are multiple year growers, so you can keep them multiple years. And take seeds from them for new plants. :)
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/snack-paprika.jpeg)
 
