@@ -32,6 +32,8 @@ Github-LOG
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/whisper.png)
 
+2026/06 - I found a linux phone, no idea how to obtain it though. https://pine64eu.com/product-category/devices/smartphones/
+
 2026/06 - I'm now growing snack paprika's as well in my little tent, they can handle 18hours too. If you look them up, they are multiple year growers, so you can keep them multiple years. Take seeds from them for new plants. :)
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/snack-paprika.jpeg)
