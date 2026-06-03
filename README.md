@@ -30,7 +30,7 @@ Github-LOG
 
 2026/06 - I'm now growing snack paprika's as well in my little tent, they can handle 18hours too. :)
 
-![Screenshot](https://github.com/sprokkel78/read-profile/blob/main/snack-paprika.jpeg)
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/snack-paprika.jpeg)
 
 2026/06 - Continued ...
 
