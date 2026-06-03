@@ -28,6 +28,8 @@ Github-LOG
 
 .
 
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/whisper.png)
+
 2026/06 - I'm now growing snack paprika's as well in my little tent, they can handle 18hours too. :)
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/snack-paprika.jpeg)
