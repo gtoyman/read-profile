@@ -30,6 +30,8 @@ Github-LOG
 
 2026/06 - I'm now growing snack paprika's as well in my little tent, they can handle 18hours too. :)
 
+![Screenshot](https://github.com/sprokkel78/read-profile/blob/main/snack-paprika.png)
+
 2026/06 - Continued ...
 
 2026/06 - We live in a paradise, act like it. Be non-violent. Show the colors (pink & blue). A negative approach will lead to a negative result. Stay positive, it's going to be OKE.
