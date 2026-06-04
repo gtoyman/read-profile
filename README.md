@@ -12,7 +12,7 @@ CONTINUED ...
 
 - Keep in mind, thanks to my status i still feel like a child even tho i'm 48. I'm scared of grown-ups.
 
-- Sia: Queen / Sia: Unstoppable / Trippy Tapes FM / The Script: Hall Of Fame (youtube).
+- Sia: Queen / Sia: Unstoppable / Trippy Tapes FM / The Script: Hall Of Fame / Steve Miller Band: The Joker (youtube).
 
 ```
 For those who do not know, I had this instagram account dedicated to people living with anxiety.
