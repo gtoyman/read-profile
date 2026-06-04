@@ -32,6 +32,8 @@ Github-LOG
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/whisper.png)
 
+2026/06 - There isn't a single artwork more beautiful than a female body. ;)
+
 2026/06 - Samantha Fox - Touch Me.
 
 2026/06 - I found a linux phone, no idea how to obtain it though. https://pine64eu.com/product-category/devices/smartphones/ , there is also https://shop.puri.sm/shop/librem-5/ , but it's quite expensive.
