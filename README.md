@@ -14,7 +14,7 @@ CONTINUED ...
 
 - Sia: Queen / Sia: Unstoppable / Trippy Tapes FM / The Script: Hall Of Fame / Steve Miller Band: The Joker / The Carpenters - (They Long To Be) Close To You (youtube).
 
-- The Hitchhiker's Guide to the Galaxy - Good Movie!
+- The Hitchhiker's Guide to the Galaxy - Good Movie! Don't forget your towel! It's for covering up naked girls! :)
 
 ```
 For those who do not know, I had this instagram account dedicated to people living with anxiety.
