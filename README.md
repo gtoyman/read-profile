@@ -14,6 +14,8 @@ CONTINUED ...
 
 - Sia: Queen / Sia: Unstoppable / Trippy Tapes FM / The Script: Hall Of Fame / Steve Miller Band: The Joker / The Carpenters - (They Long To Be) Close To You (youtube).
 
+- The Hitchhiker's Guide to the Galaxy - Good Movie!
+
 ```
 For those who do not know, I had this instagram account dedicated to people living with anxiety.
 It got banned by instagram for not following guideline rules although I never did anything 
