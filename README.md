@@ -4,6 +4,8 @@ CONTINUED ...
 
 ![Screenshot](https://github.com/sprokkel78/read-profile/blob/main/HouseofPL.png)
 
+![Screenshot](https://github.com/sprokkel78/read-profile/blob/main/me.jpeg)
+
 .
 
 - DEDICATED TO PEOPLE LIVING WITH ANXIETY -> see Instagram: Sprokkel78b (BANNED)
