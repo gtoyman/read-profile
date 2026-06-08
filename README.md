@@ -160,6 +160,8 @@ https://www.growland.nl or .de
 
 THOSE WHO ARE INNOCENT WALK FREE! I choose to be a good person on this planet.
 
+- For now, see this link for all my repositories: https://github.com/sprokkel78?tab=repositories
+
 .
 
 EOF (End Of File)
