@@ -68,8 +68,6 @@ Back to the 90's , It's up to Gen-X again to save the world. :)
 
 2026/06 - They are scanning my LAN through my phone when it's connected to LAN and not 4G. Check wireguard protocol in wireshark. Keep your phone on 4G with vpn. They hack your LAN through your phone when it's connected to LAN wifi.
 
-2026/06 - My phone is working again ... Problem was on my end. sorry.
-
 2026/06 - Life is short, you better enjoy that shit! Zayde Wolf - Rumble.
 
 2026/06 - Frank Sinatra - That's Life. | The Waterboys - The whole of the moon. (Learn to dance?)
