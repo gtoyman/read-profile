@@ -1,10 +1,12 @@
-# read-profile -> Bart Janssen (sprokkel78)
+\# read-profile -> Bart Janssen (sprokkel78)
 
 CONTINUED ...
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/HouseofPL.png)
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/me.jpeg)
+
+- I'm here to rumble! :)
 
 .
 
