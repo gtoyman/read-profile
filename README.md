@@ -6,6 +6,10 @@ CONTINUED ...
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/me.jpeg)
 
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/me2.jpg)
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/me3.jpg)
+
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/Bart.jpg)
 
 - I'm here to rumble! :)
