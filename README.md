@@ -46,6 +46,7 @@ Github-LOG
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/whisper.png)
 
+2026/06 - Whitesnake - Here I Go Again '87 (Official Music Video). <3
 
 2026/06 - Want to buy! ->
 
