@@ -46,6 +46,11 @@ Github-LOG
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/whisper.png)
 
+
+2026/06 - Want to buy! ->
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/wtb.jpg)
+
 2026/06 - The Lost Boys - Affection. <3 | The Cranberries - Dreams.
 
 2026/06 - Read about DoT, Dns over TLS. It's a lot safer than standard dns.
