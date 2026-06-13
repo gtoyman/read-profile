@@ -46,6 +46,8 @@ Github-LOG
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/whisper.png)
 
+2026/06 - The Lost Boys - Affection. <3
+
 2026/06 - Read about DoT, Dns over TLS. It's a lot safer than standard dns.
 
 2026/06 - There isn't a single artwork more beautiful than a female body. ;)
