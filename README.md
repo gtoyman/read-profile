@@ -30,21 +30,28 @@ CONTINUED ...
 For those who do not know, I had this instagram account dedicated to people living with anxiety.
 It got banned by instagram for not following guideline rules although I never did anything 
 wrong. Now I'm blocked from instagram. But don't worry, I have all the pictures and I will 
-continue my posts here:
+continue my posts about anxiety here:
 ```
 - https://www.github.com/sprokkel78/social-anxiety. 
 
 .
 
-Github-LOG
-
-.
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/imoke.png)
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/believe.png)
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/whisper.png)
+
+.
+
+--------------------------
+
+GITHUB LOG STARTS HERE ...
+
+--------------------------
+
+.
 
 2026/06 - Can you recharge a battery with magnetism? (hint)
 
