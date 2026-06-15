@@ -147,7 +147,7 @@ Offtopic Network Security:
 
 .
 
-For more information about network security visit: https://github.com/sprokkel78/secure-network-architecture
+For more information about network security visit: https://github.com/gtoyman/secure-network-architecture
 
 For more information about settings up an automated linux vpn gateway visit: https://github.com/sprokkel78/nordvpn-gateway-scripts
 
