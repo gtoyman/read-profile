@@ -145,24 +145,6 @@ Offtopic Network Security:
 
 - Use fail2ban when hosting ssh servers
 
-- Disable your NTP services, they expose you on the internet. (OPTIONAL)
-
-```
-$sudo systemctl stop systemd-timesyncd
-
-$sudo systemctl disable systemd-timesyncd
-
-$sudo systemctl mask systemd-timesyncd
-```
-
-- Disable outgoing NTP traffic on the vpn gateway (OPTIONAL)
-
-```
-$sudo iptables -I OUTPUT -p tcp --dport 123 -j DROP
-```
-
-- It's good practise to use 1 vpn gateway for your phone's dns traffic and another vpn gateway for the rest of it's traffic. Same goes for your smarttv.
-
 .
 
 For more information about network security visit: https://github.com/sprokkel78/secure-network-architecture
