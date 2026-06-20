@@ -142,6 +142,7 @@ then
         rm -f /tmp/.blulog
 	echo "QUITING"
         blustop
+	eject /dev/"$DEV"
 	echo "SCRIPT COMPLETED"
 	break
 	exit 0
