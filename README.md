@@ -58,6 +58,8 @@ GITHUB LOG STARTS HERE ...
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/drugs.png)
 
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/giveup.png)
+
 2026/06 - Looks like a lot more people are suffering from anxiety in the world and that while I thought I was the only one.(?)
 
 2026/06 - Can you recharge a battery with magnetism? (hint)
