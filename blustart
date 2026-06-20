@@ -151,10 +151,11 @@ then
 	blucopy /dev/"$DEV"
 	break
 	exit 0
-elif [ "$SECTOR" = "m" ] # m = MOUNT VIDEO DISC
+elif [ "$SECTOR" = "m" && "$SECTOR" != "0" ] # m = MOUNT VIDEO DISC
 then
 	udisksctl mount -b /dev/"$DEV"
 	nohup nautilus -w /run/media/"$USER"/ >/dev/null 2>&1 &
+	echo "NAUTILUS 1"
 
 # THIS ELIF IS FOR MOUNTING A SESSION BY START SECTOR NUMBER
 elif [[ "$SECTOR" =~ ^[0-9]+$ ]];
@@ -174,14 +175,16 @@ then
 	echo "DONE"
 	echo ""
 	echo "---------------------"
-	echo "$DIR"
+	echo "$MOUNT"
 	echo "---------------------"
 	echo ""
-	ls -la "$DIR"
+	ls -la "$MOUNT"
 	echo ""
 	play /usr/share/sounds/freedesktop/stereo/complete.oga > /dev/null 2>&1
 	echo "SESSION MOUNT COMPLETED -> SECTOR $SECTOR = MOUNTED"
-	nohup nautilus -w "$DIR" /dev/null 2>&1 &
+	nohup nautilus -w /home/sprokkel/bluray >/dev/null 2>&1 &
+	echo "NAUTILUS 2"
+	
 else 
 	echo "Could not compute, Please try again ..."
 

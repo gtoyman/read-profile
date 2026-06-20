@@ -23,7 +23,10 @@ then
 	blustart
 	exit 1;
 fi
-
+if [ "$MAP" ]
+then
+	ls -la "$MAP" > /tmp/CONTENTS.txt
+fi
 echo -n "- Choose a Session Name for the Track: "
 read LABEL
 echo ""
@@ -31,7 +34,9 @@ echo ""
   -r -J \
   -V "$LABEL" \
   -o "$DIR"/bd-image.iso \
- "$MAP" || exit 1
+ "$MAP" \
+/tmp/CONTENTS.txt || exit 1
+rm -f /tmp/CONTENTS.txt
 
 echo "Press enter to continue, or CTRL-c to exit on errors."
 read enter
