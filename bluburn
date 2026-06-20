@@ -25,7 +25,7 @@ then
 fi
 if [ "$MAP" ]
 then
-	ls -la "$MAP" > /tmp/CONTENTS.txt
+	ls -laR "$MAP" > /tmp/CONTENTS.txt
 fi
 echo -n "- Choose a Session Name for the Track: "
 read LABEL

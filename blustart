@@ -151,7 +151,7 @@ then
 	blucopy /dev/"$DEV"
 	break
 	exit 0
-elif [ "$SECTOR" = "m" && "$SECTOR" != "0" ] # m = MOUNT VIDEO DISC
+elif [[ "$SECTOR" = "m" && "$SECTOR" != "0" ]] # m = MOUNT VIDEO DISC
 then
 	udisksctl mount -b /dev/"$DEV"
 	nohup nautilus -w /run/media/"$USER"/ >/dev/null 2>&1 &
