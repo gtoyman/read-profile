@@ -51,7 +51,10 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
-.
+
+2026/06 - Lets end the war on drugs ...
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/the-end.png)
 
 2026/06 - Looks like a lot more people are suffering from anxiety in the world and that while I thought I was the only one.(?)
 
