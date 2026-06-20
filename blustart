@@ -1,7 +1,8 @@
 #!/bin/sh
 
 # GLOBALS
-DIR="/home/sprokkel/nas/bluray"
+DIR="/home/sprokkel/nas/bluray" # TEMPORARY DATA DIRECTORY FOR ISO's.
+MOUNT="/home/sprokkel/bluray"   # SESSION MOUNT DIRECTORY.
 
 # INTRO
 clear # CLEAR SCREEN
@@ -169,7 +170,7 @@ then
 	echo "DONE"
 
 	echo -n "MOUNTING SESSION AS ROOT -> "
-	sudo mount -t iso9660 -o ro "$LOOP" "$DIR" || exit 1
+	sudo mount -t iso9660 -o ro "$LOOP" "$MOUNT" || exit 1
 	echo "DONE"
 	echo ""
 	echo "---------------------"

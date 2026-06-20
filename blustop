@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # GLOBALS
-DIR="/home/sprokkel/nas/bluray"
+MOUNT="/home/sprokkel/bluray"
 
 DEV=$(lsblk -ndo NAME,TYPE | awk '$2=="rom"{print $1; exit}')
 [ -z "$DEV" ] && {
@@ -9,7 +9,7 @@ DEV=$(lsblk -ndo NAME,TYPE | awk '$2=="rom"{print $1; exit}')
     exit 1
 }
 echo -n "INIT BLURAY DISC -> "
-sudo umount "$DIR" > /dev/null 2>&1
+sudo umount "$MOUNT" > /dev/null 2>&1
 losetup -a | grep "$DEV" | cut -d: -f1 | while read LOOP
 do
     sudo losetup -d "$LOOP"
