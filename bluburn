@@ -1,0 +1,51 @@
+#!/bin/sh
+
+# GLOBALS
+DIR="/home/sprokkel/nas/bluray"
+
+trap 'rm -f "$DIR"/bd-image.iso' EXIT
+
+DEV=$(lsblk -ndo NAME,TYPE | awk '$2=="rom"{print $1; exit}')
+[ -z "$DEV" ] && {
+    echo "No optical drive found."
+    exit 1
+}
+echo "------------------------------"
+echo "- CREATE A NEW SESSION/TRACK -"
+echo "------------------------------"
+echo ""
+echo "- Make sure there's a disc in the drive!"
+echo ""
+echo -n "- Select a Folder to Write to the Disc, or type 'b' to go back: " 
+read MAP
+if [ "$MAP" = "b" ]
+then
+	blustart
+	exit 1;
+fi
+
+echo -n "- Choose a Session Name for the Track: "
+read LABEL
+echo ""
+/usr/bin/xorriso -as mkisofs \
+  -r -J \
+  -V "$LABEL" \
+  -o "$DIR"/bd-image.iso \
+ "$MAP" || exit 1
+
+echo "Press enter to continue, or CTRL-c to exit on errors."
+read enter
+
+/usr/bin/xorriso -as cdrecord -vv \
+  dev=/dev/"$DEV" \
+  speed=6 \
+  -multi \
+  "$DIR"/bd-image.iso || exit 1
+
+echo ""
+xorriso -indev /dev/"$DEV" -toc
+echo "EJECTING DISC"
+eject /dev/"$DEV"
+play /usr/share/sounds/freedesktop/stereo/complete.oga > /dev/null 2>&1
+rm -f "$DIR"/bd-image.iso
+echo "SCRIPT COMPLETED."

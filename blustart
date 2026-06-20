@@ -1,0 +1,188 @@
+#!/bin/sh
+
+# GLOBALS
+DIR="/home/sprokkel/nas/bluray"
+
+# INTRO
+clear # CLEAR SCREEN
+blustop # CLEAR AND REMOVE AND PREVIOUS MOUNTS AND LOOPS
+sleep 3 # WAIT 3 SECONDS
+clear # CLEAR SCREEN AGAIN
+
+# LOCATE BLURAY DRIVE
+DEV=$(lsblk -ndo NAME,TYPE | awk '$2=="rom"{print $1; exit}')
+[ -z "$DEV" ] && {
+    echo "No optical drive found."
+    exit 1
+}
+
+# SET COUNTER TO 1
+COUNTER=1
+
+# CLEAR ANY EXISTING LOG FILES
+rm -f /tmp/.blulog
+
+# START BLURAY DISC SESSION BURNING
+echo "------------------------------"
+echo "- BLURAY DISC SESSION BURNER -"
+echo "------------------------------"
+echo ""
+echo "- Reading Table Of Contents, Please Wait ..."
+echo -n "- Reading ."
+
+# IF THE LOGFILE DOESN'T EXIST, CREATE ONE.
+echo >> /tmp/.blulog
+
+# IF THE DISC IS A SESSIONS DISC, READ THE TABLE OF CONTENTS HERE
+DISCTYPE="0"
+if dvd+rw-mediainfo /dev/"$DEV" 2>/dev/null | grep -q "Start"; then
+    DISCTYPE="1"
+else
+    DISCTYPE="0"
+fi
+
+DISCTYPE="0"
+
+while read -r SECTOR
+do
+    LOOP=$(sudo losetup -f --show -r -o $((SECTOR * 2048)) /dev/"$DEV")
+
+    LABEL=$(sudo isoinfo -d -i "$LOOP" 2>/dev/null |
+            awk -F': ' '/Volume id:/ {print $2}')
+
+    if [ -z "$LABEL" ] 
+    then 
+	LABEL="empty session"; 
+    else 
+	DISCTYPE=1 
+    fi
+
+    echo "Track Nr. $COUNTER | Start Sector Nr.: $SECTOR | Label: $LABEL" >> /tmp/.blulog
+
+    sudo losetup -d "$LOOP"
+
+    COUNTER=$((COUNTER + 1))
+
+done < <(
+    dvd+rw-mediainfo /dev/"$DEV" 2>/dev/null |
+    grep "Start" |
+    awk '{sub(/\*2KB$/, "", $4); print $4}'
+)
+
+echo ""
+z=0
+if [ "$DISCTYPE" = "0" ]
+then
+	BLANK=`dvd+rw-mediainfo /dev/"$DEV" 2>/dev/null | grep " Disc status:           blank"`
+	if [ "$BLANK" ]
+	then
+		echo ""
+		echo "- This media is blank."
+		echo ""
+		echo -n "-"
+		dvd+rw-mediainfo /dev/"$DEV" 2>/dev/null | grep "Mounted Media"
+		echo ""
+		z=1
+	else 
+		echo ""
+		echo -n "-"
+		dvd+rw-mediainfo /dev/"$DEV" 2>/dev/null | grep "Mounted Media"
+		echo ""
+		echo "- You may be able to read this media by mounting it. Press 'm'."
+	fi
+fi
+
+# RUN USER INTERFACE LOOP
+i=1; while [ $i -eq 1 ]
+do
+cat /tmp/.blulog
+echo ""
+blufree
+
+# MAIN MENU
+
+echo ""
+echo ""
+echo "- Type 'n' to 'CREATE A NEW SESSION', or"
+if [ $z -eq 1 ]
+then
+	z=1
+else
+	echo "- Type 'start sector nr.' to 'LOAD A SESSION', or"
+	echo "- Type 'c' to 'COPY' from SOURCE TO DESTINATION 'DISC', or"
+	echo "- Type 'm' to 'MOUNT' a 'VIDEO-DISC', or"
+fi
+echo "- Type 'e' to 'EJECT THE DISC', or"
+echo "- Type 'q' to 'QUIT'."
+echo ""
+echo -n "Your Choice: "
+read SECTOR
+echo ""
+
+# MAIN MENU TRIGGERS
+
+if [ "$SECTOR" = "n" ] # n = NEW SESSION
+then 
+	bluburn
+	rm -f /tmp/.blulog
+	break
+	exit 0
+elif [ "$SECTOR" = "e" ] # e = EJECT DRIVE
+then
+	rm -f /tmp/.blulog
+	blustop
+	echo "EJECTING DISC"
+	eject /dev/"$DEV"
+	echo "SCRIPT COMPLETED"
+	break
+	exit 0
+elif [ "$SECTOR" = "q" ] # q = QUIT
+then
+        rm -f /tmp/.blulog
+	echo "QUITING"
+        blustop
+	echo "SCRIPT COMPLETED"
+	break
+	exit 0
+elif [ "$SECTOR" = "c" ] # c = COPY DISC
+then
+        rm -f /tmp/.blulog
+	blucopy /dev/"$DEV"
+	break
+	exit 0
+elif [ "$SECTOR" = "m" ] # m = MOUNT VIDEO DISC
+then
+	udisksctl mount -b /dev/"$DEV"
+	nohup nautilus -w /run/media/"$USER"/ >/dev/null 2>&1 &
+
+# THIS ELIF IS FOR MOUNTING A SESSION BY START SECTOR NUMBER
+elif [[ "$SECTOR" =~ ^[0-9]+$ ]];
+then
+	echo "--------------------------------"
+	echo "- LOAD A SESSION BY SECTOR NR. -"
+	echo "--------------------------------"
+	echo ""
+
+	blustop
+	echo "CREATING LOOP DEVICE AS ROOT :"
+	LOOP=`sudo losetup -fP --show -o $(($SECTOR*2048)) /dev/"$DEV"`
+	echo "DONE"
+
+	echo -n "MOUNTING SESSION AS ROOT -> "
+	sudo mount -t iso9660 -o ro "$LOOP" "$DIR" || exit 1
+	echo "DONE"
+	echo ""
+	echo "---------------------"
+	echo "$DIR"
+	echo "---------------------"
+	echo ""
+	ls -la "$DIR"
+	echo ""
+	play /usr/share/sounds/freedesktop/stereo/complete.oga > /dev/null 2>&1
+	echo "SESSION MOUNT COMPLETED -> SECTOR $SECTOR = MOUNTED"
+	nohup nautilus -w "$DIR" /dev/null 2>&1 &
+else 
+	echo "Could not compute, Please try again ..."
+
+fi
+done

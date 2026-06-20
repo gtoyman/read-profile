@@ -1,0 +1,29 @@
+#!/bin/sh
+
+# LOCATE BLURAY DRIVE
+DEV=$(lsblk -ndo NAME,TYPE | awk '$2=="rom"{print $1; exit}')
+[ -z "$DEV" ] && {
+    echo "No optical drive found."
+    exit 1
+}
+
+echo "---------------------------"
+echo "- BLURAY DISC REPAIR TOOL -"
+echo "---------------------------"
+echo ""
+echo "- Make sure there is a disc in the drive."
+echo ""
+echo "- Press enter to continue, or CTRL-c to quit."
+read enter
+
+xorriso -as cdrecord \
+    dev=/dev/"$DEV" \
+    -multi \
+    /usr/local/bin/blusession.iso
+
+echo ""
+echo "REPAIR COMPLETED"
+echo "EJECTING DISC"
+eject /dev/"$DEV"
+echo "SCRIPT COMPLETED"
+

@@ -1,0 +1,19 @@
+#!/bin/sh
+
+# GLOBALS
+DIR="/home/sprokkel/nas/bluray"
+
+DEV=$(lsblk -ndo NAME,TYPE | awk '$2=="rom"{print $1; exit}')
+[ -z "$DEV" ] && {
+    echo "No optical drive found."
+    exit 1
+}
+echo -n "INIT BLURAY DISC -> "
+sudo umount "$DIR" > /dev/null 2>&1
+losetup -a | grep "$DEV" | cut -d: -f1 | while read LOOP
+do
+    sudo losetup -d "$LOOP"
+done
+play /usr/share/sounds/freedesktop/stereo/complete.oga > /dev/null 2>&1
+echo "SCRIPT COMPLETED"
+echo -n ""
