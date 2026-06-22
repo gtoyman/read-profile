@@ -56,6 +56,8 @@ GITHUB LOG STARTS HERE ...
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/train.png)
 
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/train2.png)
+
 2026/06 - Lets end the war on drugs ...
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/the-end.png)
