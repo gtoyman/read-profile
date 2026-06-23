@@ -51,6 +51,7 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+2026/06 - Pink & Blue are Dopamine Colors, That's why you get addicted to <3.
 
 2026/06 - The Party-Train stops for no-one.
 
