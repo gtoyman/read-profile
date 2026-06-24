@@ -51,7 +51,7 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
-2026/06 - How I live? Dopamine + Adrenaline Junkie.
+2026/06 - How I live? Dopamine + Natural Adrenaline Junkie.
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/adrenaline.png)
 
