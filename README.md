@@ -55,6 +55,8 @@ GITHUB LOG STARTS HERE ...
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/pink_blue.png)
 
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/content.png)
+
 2026/06 - The Party-Train stops for no-one. Youtube: Massive Activity Astrix Belgium...
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/train.png)
