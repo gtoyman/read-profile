@@ -51,10 +51,13 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+2026/07 - Incoming ... <3
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/goldwing1800gl.png)
+
 2026/06 - Gift from Trippy Tapes FM <3.
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/giftfromttpfm.png)
-
 
 2026/06 - How I live? Dopamine + Natural Adrenaline Junkie.
 
