@@ -51,6 +51,8 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+2026/07 - I have two questions. 1. Banks are businesses and create profit. Why do banks need profit? 2. Governements don't own any businesses that create profit so the only thing they do is raise taxes. Why don't governements own businesses that create profit?
+
 2026/07 - Enjoying the weather? I am acclimatized to the warm climate here. Get on the summer-train! <3
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/summer-2026.png)
