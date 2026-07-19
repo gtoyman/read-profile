@@ -51,7 +51,7 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
-2026/07 - Does any of the girls have dark-pink nail-polish? I have a pink cue in my pants that needs to be polished! :) <3
+2026/07 - Does any of the girls have dark-pink nail-polish? -> I have a pink cue in my pants that needs to be polished! :) <3
 
 2026/07 - I have two questions. 1. Banks are businesses and create profit. Why do banks need profit? 2. Governements don't own any businesses that create profit so the only thing they do is raise taxes. Why don't governements own businesses that create profit?
 
