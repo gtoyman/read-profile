@@ -51,6 +51,10 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+2026/07 - New Hobby! <3
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/hobby.png)
+
 2026/07 - My Love For You! <3
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/mylove.png)
