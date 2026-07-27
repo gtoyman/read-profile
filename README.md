@@ -18,9 +18,9 @@ CONTINUED ...
 
 - DEDICATED TO PEOPLE LIVING WITH ANXIETY -> see Instagram: Sprokkel78b (BANNED)
 
-- My name is Bart Janssen. 11/03/1978. Belgium. I'm on IRC libera. channel #linux. Nickname sprokkel.
+- My name is Bart Janssen. 1978. Belgium. I'm on IRC libera. channel #linux. Nickname sprokkel.
 
-- Keep in mind, thanks to my status i still feel like a child even tho i'm 48. I'm scared of grown-ups.
+- Keep in mind, thanks to my anxiety for people I still feel like a child even tho i'm 48+. I'm scared of grown-ups.
 
 - Sia: Queen / Sia: Unstoppable / Trippy Tapes FM / The Script: Hall Of Fame / Steve Miller Band: The Joker / The Carpenters - (They Long To Be) Close To You (youtube).
 
@@ -194,7 +194,6 @@ I want friend and enemy at the same table.
 
 A negative approach always leads to a negative result.(=, if you like math)
 
-Please remain calm, and relax a bit. It's going to be oke.
 ```
 
 .
@@ -213,7 +212,7 @@ For more information about settings up an automated linux vpn gateway visit: htt
 
 .
 
-Usefull Links: (one plant is legal)
+Usefull Links: (caring for one plant is legal)
 
 https://www.royalqueenseeds.com
 
