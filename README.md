@@ -51,6 +51,10 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+2026/07 - Meanwhile, my paprika plant is going wild! :)
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/paprika-plant.jpeg)
+
 2026/07 - 12 years ago, still carying a little extra weight! :)
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/terminator.png)
