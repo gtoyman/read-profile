@@ -51,6 +51,10 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+2026/07 - 12 years ago, still carying a little extra weight! :)
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/terminator.png)
+
 2026/07 - New Hobby! <3
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/hobby.png)
