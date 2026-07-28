@@ -51,6 +51,10 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+2026/07 - Stay a little longer ...
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/stay.png)
+
 2026/07 - Meanwhile, my paprika plant is going wild! :)
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/paprika-plant.jpeg)
