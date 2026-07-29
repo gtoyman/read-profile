@@ -51,6 +51,8 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+2026/07 - Tabac prices go skyrocket, meanwhile the black market sells sigarets at 5e for a pack. I think about growing my own tabac with these prices.
+
 2026/07 - Stay a little longer ...
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/stay.png)
