@@ -51,7 +51,7 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
-2026/07 - Went to a party, did an effort to talk to 17 girls in total, only 4 returned contact with a success rate of 0%. I did get them to smile tho. wtf. :) - I asked the medics about their evening. They had to take care of 30 youngsters that had too much to drink. Zero problems with drug-users.
+2026/07 - Went to a party, did an effort to talk to 17 girls in total, only 4 returned contact with a success rate of 0%. I did get them to smile tho. wtf. :) - I asked the medics about their evening. They had to take care of 30 youngsters that had too much to drink. Zero problems with drug-users. I got a remark from security for smoking a joint.
 
 2026/07 - Tabac prices go skyrocket, meanwhile the black market sells sigarets at 5e for a pack. I think about growing my own tabac with these prices.
 
