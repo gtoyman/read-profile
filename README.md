@@ -51,7 +51,7 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
-2026/07 - I went to a party and did a social effort to talk to 17 girls in total and tried to make them smile with a joke, only 4 returned contact with a success rate of 0%. I did get them to smile tho. wtf, that is hard work :) , it looks like only 4 girls in 17 are players the rest is a surplus - I also asked the medics about their evening. They told me they had to take care of 30 youngsters that had too much to drink. There were zero problems with drug-users. I got a remark from security for smoking a joint tho. If any of you girls have blue nail-polish, let me know. I got two blue balls that need to be polished. :))
+2026/07 - I went to a party and did a social effort to talk to 17 girls in total and tried to make them smile with a joke, only 4 returned contact with a date success rate of 0%. I did get them to smile tho. wtf, that is hard work :) , it looks like only 4 girls in 17 are players and the rest is a surplus - I also asked the medics about their evening. They told me they had to take care of 30 youngsters that had too much to drink. There were zero problems with drug-users. I got a remark from security for smoking a joint tho. If any of you girls have blue nail-polish, let me know. I got two blue balls that need to be polished. :))
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/security.png)
 
