@@ -51,6 +51,10 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+2026/08 - Heatwave!
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/field.png)
+
 2026/08 - Roadtrip!
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/roadtrip.png)
