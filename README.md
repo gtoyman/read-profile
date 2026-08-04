@@ -167,10 +167,6 @@ GITHUB LOG STARTS HERE ...
 
 Back to the 90's , It's up to Gen-X again to save the world. :)
 
-2026/06 - Without me pulling on the brakes now, the world would be devastated in 10 years. I'm truly sorry, but the internet is broken.
-
-2026/06 - They are scanning my LAN through my phone when it's connected to LAN and not 4G. Check wireguard protocol in wireshark. Keep your phone on 4G with vpn. They hack your LAN through your phone when it's connected to LAN wifi.
-
 2026/06 - Life is short, you better enjoy that shit! Zayde Wolf - Rumble.
 
 2026/06 - Frank Sinatra - That's Life. | The Waterboys - The whole of the moon. (Learn to dance?)
@@ -187,10 +183,6 @@ Back to the 90's , It's up to Gen-X again to save the world. :)
 
 2026/05 - It's about to get summer here! :)
 
-2026/05 - I got a perma ban from instagram for not following the guideline rules although I don't understand what I've done wrong. The only option I have is going to court. Any lawyers interested in a case like this?
-
-2026/05 - I made my identity public. I had to come forward. I never sold my computer. Let's see what happens next.
-
 2026/05 - I haven't done a single crime in 48 years on this planet. My crime record is empty. So are my traffic infractions. I grow one weed-plant for medicinal uses. It's an F1 Hybrid. It's allowed by my doctor. THOSE WHO ARE INNOCENT, WALK FREE!
 
 2026/05 - SECURE YOUR NETWORKS, use a VPN! PROTECT YOUR PRIVACY!
@@ -200,8 +192,6 @@ Back to the 90's , It's up to Gen-X again to save the world. :)
 2026/05 - Use Google Chrome. Buy a DVD burner for moments without internet.
 
 2026/05 - I use Apple Hardware with Asahi Linux. Wish I could buy Mac Studio Pro Hardware, mine is a mini.
-
-2026/05 - Locked out of Instagram Account sprokkel78b. Ask Instagram to give me my account back. 
 
 2026/05 - Everyone dress up in pink and blue! We fight back with the power of love!
 
