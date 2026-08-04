@@ -18,7 +18,7 @@ CONTINUED ...
 
 - DEDICATED TO PEOPLE LIVING WITH ANXIETY -> see Instagram: Sprokkel78b (BANNED)
 
-- My name is Bart Janssen. 1978. Belgium. I'm on IRC libera. channel #linux. Nickname sprokkel.
+- My name is Bart. 1978. Belgium. I'm on IRC libera. channel #linux. Nickname sprokkel.
 
 - Keep in mind, thanks to my anxiety for people I still feel like a child even tho i'm 48+. I'm scared of grown-ups.
 
