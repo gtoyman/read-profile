@@ -4,8 +4,6 @@ CONTINUED ...
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/HouseofPL.png)
 
-![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/filter.jpeg)
-
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/me.jpeg)
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/me2.jpg)
