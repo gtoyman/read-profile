@@ -51,7 +51,7 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
-2026/08 - This person is only available as an extra on the side. :)
+2026/08 - This person is only available as an extra on the side, to rare to be owned ... :)
 
 2026/08 - Sprokkel in training. <3
 
