@@ -32,7 +32,7 @@ It got banned by instagram for not following guideline rules although I never di
 wrong. Now I'm blocked from instagram. But don't worry, I have all the pictures and I will 
 continue my posts about anxiety here:
 ```
-- https://www.github.com/sprokkel78/social-anxiety. 
+- https://www.github.com/gtoyman/social-anxiety. 
 
 .
 
