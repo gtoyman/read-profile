@@ -51,6 +51,8 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+2026/08 - This person is only available as an extra on the side. :)
+
 2026/08 - Sprokkel in training. <3
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/service_dog.png)
