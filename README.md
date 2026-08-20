@@ -51,6 +51,10 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+2026/08 - Motor Skills Training.
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/motor_skills.png)
+
 2026/08 - Fell out of my pink cloud. Recharging...
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/up_down_up.png)
