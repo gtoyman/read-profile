@@ -53,7 +53,7 @@ GITHUB LOG STARTS HERE ...
 
 2026/08 - EOF. for now...
 
-2026/08 - Cue Skills Training.
+2026/08 - Cue Skills Training. ;) <3
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/game_on.png)
 
