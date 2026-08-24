@@ -157,10 +157,6 @@ GITHUB LOG STARTS HERE ...
 
 2026/06 - Whitesnake - Here I Go Again '87 (Official Music Video). <3
 
-2026/06 - Want to buy! -> A used one pls. I have no money :)
-
-![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/wtb.jpg)
-
 2026/06 - The Lost Boys - Affection. <3 | The Cranberries - Dreams.
 
 2026/06 - Read about DoT, Dns over TLS. It's a lot safer than standard dns.
