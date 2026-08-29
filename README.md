@@ -18,24 +18,11 @@ CONTINUED ...
 
 - DEDICATED TO PEOPLE LIVING WITH ANXIETY -> see Instagram: Sprokkel78b (BANNED)
 
-- My name is Bart. 1978. Belgium. I'm on IRC libera. channel #linux. Nickname sprokkel.
-
-- Keep in mind, thanks to my anxiety for people I still feel like a child even tho i'm 48+. I'm scared of grown-ups.
-
 - Sia: Queen / Sia: Unstoppable / Trippy Tapes FM / The Script: Hall Of Fame / Steve Miller Band: The Joker / The Carpenters - (They Long To Be) Close To You (youtube).
 
 - The Hitchhiker's Guide to the Galaxy - Good Movie! Don't forget your towel! It's for covering up naked girls! :)
 
-```
-For those who do not know, I had this instagram account dedicated to people living with anxiety.
-It got banned by instagram for not following guideline rules although I never did anything 
-wrong. Now I'm blocked from instagram. But don't worry, I have all the pictures and I will 
-continue my posts about anxiety here:
-```
-- https://www.github.com/gtoyman/social-anxiety. 
-
 .
-
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/imoke.png)
 
