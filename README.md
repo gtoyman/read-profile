@@ -148,27 +148,9 @@ GITHUB LOG STARTS HERE ...
 
 2026/06 - Read about DoT, Dns over TLS. It's a lot safer than standard dns.
 
-2026/06 - There isn't a single artwork more beautiful than a female body. ;)
-
 2026/06 - Samantha Fox - Touch Me.
 
-2026/06 - I found a linux phone, no idea how to obtain it though. https://pine64eu.com/product-category/devices/smartphones/ , there is also https://shop.puri.sm/shop/librem-5/ , but it's quite expensive.
-
-2026/06 - I'm now growing snack paprika's as well in my little tent, they can handle 18hours too. If you look them up, they are multiple year growers, so you can keep them multiple years. Take seeds from them for new plants. :)
-
-![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/snack-paprika.jpeg)
-
-2026/06 - Continued ...
-
-2026/06 - We live in a paradise, act like it. Be non-violent. Show the colors (pink & blue). A negative approach will lead to a negative result. Stay positive, it's going to be OKE.
-
-2026/06 - If you want to know what your phone is doing, connect it to the linux gateway, run wireshark combined with squid transparant proxy. Watch the logs.
-
 2026/06 - The internet is a like a bucket with holes in for which we pay every month. :)
-
-2026/06 - We can still use a computer without internet. Buy yourself an external USB Bluray Read/Writer. Back to LAN-parties, untill there is Internet V2.0. And we need new phones. 
-
-Back to the 90's , It's up to Gen-X again to save the world. :)
 
 2026/06 - Life is short, you better enjoy that shit! Zayde Wolf - Rumble.
 
@@ -195,8 +177,6 @@ Back to the 90's , It's up to Gen-X again to save the world. :)
 2026/05 - Use Google Chrome. Buy a DVD burner for moments without internet.
 
 2026/05 - I use Apple Hardware with Asahi Linux. Wish I could buy Mac Studio Pro Hardware, mine is a mini.
-
-2026/05 - Everyone dress up in pink and blue! We fight back with the power of love!
 
 .
 
