@@ -16,7 +16,9 @@ CONTINUED ...
 
 .
 
-- DEDICATED TO PEOPLE LIVING WITH ANXIETY -> see Instagram: Sprokkel78b (BANNED)
+- DEDICATED TO PEOPLE LIVING WITH ANXIETY
+
+- Age 48 with the social skills of a 7 year old child. It is what it is ...
 
 - Sia: Queen / Sia: Unstoppable / Trippy Tapes FM / The Script: Hall Of Fame / Steve Miller Band: The Joker / The Carpenters - (They Long To Be) Close To You (youtube).
 
