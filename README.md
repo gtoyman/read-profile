@@ -6,6 +6,10 @@ CONTINUED ...
 
 - DEDICATED TO PEOPLE LIVING WITH ANXIETY
 
+THOSE WHO ARE INNOCENT WALK FREE! I choose to be a good person on this planet.
+
+I haven't done a single crime in all the years that I'm on this planet.
+
 --------------------------
 
 GITHUB LOG STARTS HERE ...
