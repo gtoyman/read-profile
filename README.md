@@ -16,7 +16,7 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
-Taking a break from life ...
+Taking a break from life ... My door is open.
 
 . 
 
