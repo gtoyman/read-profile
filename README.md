@@ -18,7 +18,7 @@ GITHUB LOG STARTS HERE ...
 
 Taking a break from life ... My door is open.
 
-![Screenshot](https://github.com/gtoyman/read-profile/blob/main/3days.png)
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/3days.png)
 
 . 
 
