@@ -18,7 +18,11 @@ GITHUB LOG STARTS HERE ...
 
 Taking a break from life ... My door is open.
 
-The Harmonie Sessions - Nobody Made Me.
+- Good days by the water in the sun. <3
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/good-days.png)
+
+- The Harmonie Sessions - Nobody Made Me.
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/nobody-made-me.png)
 
