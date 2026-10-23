@@ -22,7 +22,7 @@ Taking a break from life ... My door is open.
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/dreamy.png)
 
-... but if you try sometimes, you just might find, what you need.
+... but if you try sometimes, you just might find, the thing that you need.
 
 - Good days by the water in the sun. <3
 
