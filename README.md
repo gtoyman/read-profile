@@ -16,8 +16,6 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
-Taking a break from life ... My door is open.
-
 - Happy Halloween. <3
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/halloween.png)
