@@ -18,6 +18,8 @@ GITHUB LOG STARTS HERE ...
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/halloween.png)
 
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/halloween-twizy.png)
+
 - Dreamy. <3
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/dreamy.png)
