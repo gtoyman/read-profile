@@ -14,6 +14,10 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+- From digital isolation to finding real love ... <3
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/digital.png)
+
 - Free under the stars... <3
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/free-under-the-stars.png)
