@@ -14,6 +14,10 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+- Not today ... 
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/not-today.png)
+
 - From digital isolation to finding real love ... <3
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/digital.png)
