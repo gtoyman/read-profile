@@ -14,6 +14,10 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+- Fuck it, Life goes on ... 
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/fuckit.png)
+
 - Not today ... 
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/not-today.png)
