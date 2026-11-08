@@ -14,7 +14,7 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
-- Sometimes someone else's sadness hurts your heart, a little empathy, a lot of feelings ... 
+- Sometimes someone else's sadness hurts your heart, a little empathy, a lot of feelings ... (my way of saying sorry.)
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/sad-eq.png)
 
