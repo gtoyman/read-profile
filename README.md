@@ -14,6 +14,8 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/better-place.png)
+
 - Fuck it, Life goes on ... 
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/fuckit.png)
