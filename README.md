@@ -14,6 +14,8 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/anxiety-walk.png)
+
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/motherload.png)
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/negativity.png)
