@@ -14,6 +14,10 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+- Sometimes the best thing you can do is step away from everything, reconnect with nature, and give yourself time to heal.
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/healing.png)
+
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/anxiety-walk.png)
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/motherload.png)
