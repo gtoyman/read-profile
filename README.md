@@ -18,6 +18,8 @@ GITHUB LOG STARTS HERE ...
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/healing.png)
 
+- A little walk can feel like climbing a mountain when anxiety takes over. But she isn't alone — her little four-legged friend is right there beside her.
+
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/anxiety-walk.png)
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/motherload.png)
