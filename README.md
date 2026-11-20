@@ -14,6 +14,10 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+- Seeking comfort in the company of strangers. <3
+
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/seeking-comfort.png)
+
 - Sometimes, distance is the kindest answer. <3
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/distance.png)
