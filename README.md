@@ -14,6 +14,8 @@ GITHUB LOG STARTS HERE ...
 
 --------------------------
 
+![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/kissing-you-slowly.png)
+
 - Seeking comfort in the company of strangers. <3
 
 ![Screenshot](https://github.com/gtoyman/read-profile/blob/main/images/seeking-comfort.png)
